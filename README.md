@@ -3,7 +3,7 @@
 My name is Apurva, and I'm a Spring 2025 graduate with a Bachelor's in Computer Science from the University of Georgia! I'm interested in data and finance!
 
 - 🔭 I’m currently working on [LLM-Banking-Assistant](https://github.com/apurvasharma03/llm-banking-assistant), a full-stack conversational AI project that leverages a React + TypeScript frontend and a Node.js backend to deliver real-time banking interactions powered by large language models.
-- 🌱 II’m currently learning how to build agentic AI systems for finance by studying hierarchical agents and multi-agent orchestration through projects like **LLM-Banking-Assistant**, while deepening my understanding with *The Artificial Intelligence Handbook for Investors, Entrepreneurs and FinTech Visionaries* by Susanne Chishti, Ivana Bartoletti, Anne Leslie, and Shân M. Millie, and the CrewAI Udemy course.
+- 🌱 I’m currently learning how to build agentic AI systems for finance by studying hierarchical agents and multi-agent orchestration through projects like **LLM-Banking-Assistant**, while deepening my understanding with *The Artificial Intelligence Handbook for Investors, Entrepreneurs and FinTech Visionaries* by Susanne Chishti, Ivana Bartoletti, Anne Leslie, and Shân M. Millie, and the CrewAI Udemy course.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/apurvasharma0/)
 
 
