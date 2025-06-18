@@ -6,6 +6,7 @@ My name is Apurva, and I'm a Spring 2025 graduate with a Bachelor's in Computer 
 - 🌱 I’m currently learning how to build agentic AI systems for finance by studying hierarchical agents and multi-agent orchestration through projects like **LLM-Banking-Assistant**, while deepening my understanding with *The Artificial Intelligence Handbook for Investors, Entrepreneurs and FinTech Visionaries* by Susanne Chishti, Ivana Bartoletti, Anne Leslie, and Shân M. Millie, and the CrewAI Udemy course.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/apurvasharma0/)
 
+![Apurva's GitHub stats](https://github-readme-stats.vercel.app/api?username=apurvasharma03&show_icons=true&theme=default)
 
 <!--
 **apurvasharma03/apurvasharma03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
