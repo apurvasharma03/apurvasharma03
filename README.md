@@ -7,6 +7,11 @@ My name is Apurva, and I'm a Spring 2025 graduate with a Bachelor's in Computer 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/apurvasharma0/)
 
 ![Apurva's GitHub stats](https://github-readme-stats.vercel.app/api?username=apurvasharma03&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apurvasharma03&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=apurvasharma03)
+![Trophy](https://github-profile-trophy.vercel.app/?username=apurvasharma03)
+![](https://komarev.com/ghpvc/?username=apurvasharma03&label=PROFILE+VIEWS)
+
 
 <!--
 **apurvasharma03/apurvasharma03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
